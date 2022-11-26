@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrEstructuraIterativaWhile", "PrEstructuraIterativaWhile\PrEstructuraIterativaWhile.csproj", "{446A6A87-6679-472E-ABAC-CE74DC873A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446A6A87-6679-472E-ABAC-CE74DC873A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446A6A87-6679-472E-ABAC-CE74DC873A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446A6A87-6679-472E-ABAC-CE74DC873A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446A6A87-6679-472E-ABAC-CE74DC873A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62AAC611-20B1-4FB7-ADBE-7804F254790A}
+	EndGlobalSection
+EndGlobal
